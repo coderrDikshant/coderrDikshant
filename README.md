@@ -50,8 +50,8 @@
 ## 📈 Competitive Programming
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mvdikshant?theme=light&ext=contest)  
-![Codeforces Badge](https://cp-logo.vercel.app/codeforces/your_handle)  
-![CodeChef Badge](https://cp-logo.vercel.app/codechef/your_handle)  
+![Codeforces Badge](https://cp-logo.vercel.app/codeforces/mvdikshant)  
+![CodeChef Badge](https://cp-logo.vercel.app/codechef/dikshantjha)  
 
 ---
 
