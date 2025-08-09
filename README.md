@@ -1,7 +1,10 @@
 # Dikshant Jha
 <div align="center">
   <h1 style="font-size: 2.5rem; font-weight: bold; color: #1a202c;">Hi 👋, I'm Dikshant Jha</h1>
-  <h3 style="font-size: 1.5rem; color: #4a5568; margin-top: 0.5rem;">A passionate frontend developer from India</h3>
+  <h3 style="font-size: 1.5rem; color: #4a5568; margin-top: 0.5rem;">I’m a Computer Science undergrad at IIT Jodhpur with a strong passion for building impactful software—ranging from mobile apps and SaaS products to cloud-based solutions. I love turning ideas into real-world applications, whether it’s an **Android app with 700+ users**, a **job portal deployed on AWS & Firebase**, or **ML-powered prediction tools**.  
+
+I enjoy working across the stack—**Flutter, React, Kotlin, Python, AWS, Firebase**—and thrive in problem-solving, mentoring peers, and contributing to collaborative projects. My experience spans **cloud services, robotics, and algorithmic problem-solving**, with a mindset focused on **continuous learning** and **technical curiosity**.  
+</h3>
   <img src="https://komarev.com/ghpvc/?username=coderrdikshant&label=Profile%20views&color=0e75b6&style=flat" alt="coderrdikshant" style="margin-top: 1rem;" />
 </div>
 
@@ -88,34 +91,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=coderrdikshant&show_icons=true&locale=en&theme=light" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderrdikshant&theme=light" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
 </div>
-
-<style>
-  body {
-    font-family: 'Inter', sans-serif;
-    background-color: #f7fafc;
-    color: #1a202c;
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 2rem;
-  }
-  h1, h3 {
-    font-weight: 600;
-  }
-  img {
-    transition: transform 0.2s;
-  }
-  img:hover {
-    transform: scale(1.1);
-  }
-  @media (max-width: 600px) {
-    body {
-      padding: 1rem;
-    }
-    h1 {
-      font-size: 1.8rem;
-    }
-    h3 {
-      font-size: 1.2rem;
-    }
-  }
-</style>
