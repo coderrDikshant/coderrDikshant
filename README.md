@@ -24,7 +24,7 @@
   <a href="https://leetcode.com/u/mvdikshant/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-</p>
+</div>
 
 ---
 
