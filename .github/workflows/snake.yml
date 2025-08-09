@@ -2,12 +2,14 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight UTC
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # every day at midnight UTC
+  workflow_dispatch:      # allow manual run
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # IMPORTANT: allow pushing to output branch
 
     steps:
       - name: Checkout repository
