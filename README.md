@@ -61,6 +61,14 @@
 
 ---
 
+## 📈 Competitive Programming
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mvdikshant?theme=light&font=Montserrat&ext=contest" alt="LeetCode Stats" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
