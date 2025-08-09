@@ -1,25 +1,27 @@
-# Dikshant Jha
-<div align="center">
-  <h1 style="font-size: 2.5rem; font-weight: bold; color: #1a202c;">Hi 👋, I'm Dikshant Jha</h1>
-  <h3 style="font-size: 1.5rem; color: #4a5568; margin-top: 0.5rem;">I’m a Computer Science undergrad at IIT Jodhpur with a strong passion for building impactful software—ranging from mobile apps and SaaS products to cloud-based solutions. I love turning ideas into real-world applications, whether it’s an **Android app with 700+ users**, a **job portal deployed on AWS & Firebase**, or **ML-powered prediction tools**.  
+# Hi 👋, I'm Dikshant Jha
 
-I enjoy working across the stack—**Flutter, React, Kotlin, Python, AWS, Firebase**—and thrive in problem-solving, mentoring peers, and contributing to collaborative projects. My experience spans **cloud services, robotics, and algorithmic problem-solving**, with a mindset focused on **continuous learning** and **technical curiosity**.  
-</h3>
-  <img src="https://komarev.com/ghpvc/?username=coderrdikshant&label=Profile%20views&color=0e75b6&style=flat" alt="coderrdikshant" style="margin-top: 1rem;" />
-</div>
+<p align="center">
+  <em>I’m a Computer Science undergrad at IIT Jodhpur with a strong passion for building impactful software—ranging from mobile apps and SaaS products to cloud-based solutions. I love turning ideas into real-world applications, whether it’s an <strong>Android app with 700+ users</strong>, a <strong>job portal deployed on AWS & Firebase</strong>, or <strong>ML-powered prediction tools</strong>.</em>
+</p>
+<p align="center">
+  <em>I enjoy working across the stack—<strong>Flutter, React, Kotlin, Python, AWS, Firebase</strong>—and thrive in problem-solving, mentoring peers, and contributing to collaborative projects. My experience spans <strong>cloud services, robotics, and algorithmic problem-solving</strong>, with a mindset focused on <strong>continuous learning</strong> and <strong>technical curiosity</strong>.</em>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=coderrdikshant&label=Profile%20views&color=0e75b6&style=flat" alt="coderrdikshant" />
+</p>
 
 ## Connect with Me
-<div style="display: flex; justify-content: center; gap: 1rem; margin: 1.5rem 0;">
+<p align="center">
   <a href="https://linkedin.com/in/dikshant-jha/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/mvdikshant/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-</div>
+</p>
 
 ## Languages and Tools
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin: 1.5rem 0;">
+<p align="center">
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
     <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/>
   </a>
@@ -83,11 +85,11 @@ I enjoy working across the stack—**Flutter, React, Kotlin, Python, AWS, Fireba
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-</div>
+</p>
 
 ## Stats
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem; margin-top: 2rem;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderrdikshant&show_icons=true&locale=en&layout=compact&theme=light" alt="Top Languages" style="max-width: 100%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=coderrdikshant&show_icons=true&locale=en&theme=light" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderrdikshant&theme=light" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderrdikshant&show_icons=true&locale=en&layout=compact&theme=light" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coderrdikshant&show_icons=true&locale=en&theme=light" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderrdikshant&theme=light" alt="GitHub Streak" />
+</p>
