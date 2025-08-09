@@ -50,8 +50,6 @@
 ## 📈 Competitive Programming
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mvdikshant?theme=light&ext=contest)  
-![Codeforces Badge](https://cp-logo.vercel.app/codeforces/mvdikshant)  
-![CodeChef Badge](https://cp-logo.vercel.app/codechef/dikshantjha)  
 
 ---
 
@@ -84,7 +82,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/coderrDikshant/coderrDikshant/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/coderrDikshant/coderrDikshant/output/github-contribution-grid-snake.svg)
 
 ---
 
