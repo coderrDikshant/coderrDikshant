@@ -12,9 +12,18 @@
 
 🎓 **Computer Science Undergraduate** at IIT Jodhpur (2023–2027)  
 💡 Passionate about **building impactful technology** – from mobile apps and SaaS products to ML-powered tools.  
-📱 Experience in developing **production-grade apps**, including a **job portal** deployed on AWS & Firebase, and *CollegeSync* with **700+ active users**.  
-🤖 Worked on **ROS, SLAM, multi-robot coordination** in the Inter IIT Tech Meet (Rank: 10/23).  
+📱 Built **production-grade apps**, including a **job portal** deployed on AWS & Firebase, and *CollegeSync* with **700+ active users**.  
+🤖 Experience with **ROS, SLAM, multi-robot coordination** – ranked 10th in Inter IIT Tech Meet.  
 🎯 Strong problem-solving skills with a drive for **continuous learning** and **technical innovation**.
+
+---
+
+## 🏆 Achievements
+
+- 📱 **Job Portal App** – Published on Play Store, Flutter + AWS + Firebase integration.  
+- 📡 **Inter IIT Tech Meet 13.0** – Rank **10/23 IITs** for robotics challenge.  
+- 📊 **ML Prediction Tool** – 80.14% accuracy on customer churn dataset.  
+- 🎯 Mentored **30+ students** in robotics and embedded systems.  
 
 ---
 
@@ -24,7 +33,7 @@
 **Frameworks:** React.js, Flutter, HTML, CSS, ROS  
 **Cloud & Backend:** AWS (Cognito, Lambda, DynamoDB, IAM), Firebase (Auth, Firestore, Realtime DB)  
 **Tools:** Git, GitHub, Postman, OpenCV  
-**Other Areas:** Machine Learning, Computer Vision, Robotics, Embedded Systems
+**Special Areas:** Machine Learning, Computer Vision, Robotics, Embedded Systems
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript,kotlin,dart,react,flutter,html,css,sass,bootstrap,aws,firebase,linux,figma,postman&perline=10" />
@@ -35,16 +44,24 @@
 ## 🚀 Featured Projects
 
 - **[Job Portal App](https://play.google.com/store/apps/details?id=com.vibrantmind.myapp)** – Flutter, AWS, Firebase  
-  Published on Play Store with secure authentication, role-based listings, and real-time updates.
+  Secure authentication, role-based listings, and real-time updates.
   
 - **[CollegeSync](https://github.com/tashir0605/Education_application_dvtt)** – Kotlin, Firebase  
-  An Android app for IIT Jodhpur students with 700+ users and 16+ min daily engagement.
+  Android app for IIT Jodhpur students with 700+ users and 16+ min daily engagement.
 
 - **[ML Prediction Tool](https://github.com/coderrDikshant/customer_churn)** – Python, Flask  
-  Customer churn prediction with 80.14% accuracy using multiple ML algorithms.
+  Customer churn prediction using multiple ML algorithms.
 
 - **[GraphCut Image Segmentation](https://github.com/coderrDikshant/GraphCut-)** – C++, OpenCV  
-  Implemented from scratch with up to 30% accuracy improvement over baseline.
+  Image segmentation pipeline with 30% accuracy improvement.
+
+---
+
+## 📈 Competitive Programming
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mvdikshant?theme=light&font=Montserrat&ext=contest" alt="LeetCode Stats" />
+</p>
 
 ---
 
@@ -61,10 +78,10 @@
 
 ---
 
-## 📈 Competitive Programming
+## 📊 Coding Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mvdikshant?theme=light&font=Montserrat&ext=contest" alt="LeetCode Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderrdikshant&bg_color=ffffff&color=000000&line=1f6feb&point=000000&area=true&hide_border=true" />
 </p>
 
 ---
@@ -82,3 +99,7 @@
     <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+> 💬 *“First, solve the problem. Then, write the code.”*
