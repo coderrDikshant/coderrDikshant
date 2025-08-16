@@ -55,7 +55,10 @@
 
 ## 📈 Competitive Programming
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mvdikshant?theme=dark&ext=contest)  
+ <div align="center">
+  <img src="https://leetcard.jacoblin.cool/mvdikshant?theme=dark&ext=contest" height="200" />
+</div>
+<!-- ![LeetCode Stats]()   -->
 
 ---
 
