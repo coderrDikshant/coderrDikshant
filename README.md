@@ -59,7 +59,17 @@
 
 ---
 
-## 📊 GitHub Stats  
+
+## 📊 GitHub Stats (Advanced)
+
+![](https://raw.githubusercontent.com/coderrdikshant/coderrdikshant/master/profile-summary-card-output/github_dark/0-profile-details.svg)  
+![](https://raw.githubusercontent.com/coderrdikshant/coderrdikshant/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)  
+![](https://raw.githubusercontent.com/coderrdikshant/coderrdikshant/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)  
+![](https://raw.githubusercontent.com/coderrdikshant/coderrdikshant/master/profile-summary-card-output/github_dark/3-stats.svg)  
+![](https://raw.githubusercontent.com/coderrdikshant/coderrdikshant/master/profile-summary-card-output/github_dark/4-productive-time.svg)
+
+
+<!-- ## 📊 GitHub Stats  
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderrdikshant&show_icons=true&locale=en&layout=compact&theme=dark" height="150"/>
@@ -71,7 +81,7 @@
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderrdikshant&theme=dark" height="150"/>
-</p>
+</p> -->
 
 
 <!-- ## 📊 Coding Activity Graph
