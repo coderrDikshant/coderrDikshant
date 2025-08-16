@@ -1,14 +1,17 @@
-name: GitHub profile summary cards
+name: GitHub Profile Summary Cards
 
 on:
-  schedule: # execute every 24 hours
-    - cron: "0 * * * *"
+  schedule:
+    - cron: "0 0 * * *"  # run daily
   workflow_dispatch:
+
+permissions:
+  contents: write   # ✅ allow pushing commits
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate github profile summary cards
+    name: Generate GitHub Profile Summary Cards
     steps:
       - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-summary-cards@release
