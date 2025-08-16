@@ -63,7 +63,7 @@
 ---
 
 
-## 📊 GitHub Stats (Advanced)
+## 📊 GitHub Stats
  
  <div align="center">
   <img src="https://raw.githubusercontent.com/coderrdikshant/coderrdikshant/master/profile-summary-card-output/github_dark/0-profile-details.svg" height="200" />
