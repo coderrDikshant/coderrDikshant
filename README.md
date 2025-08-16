@@ -61,11 +61,14 @@
 
 
 ## 📊 GitHub Stats (Advanced)
+ 
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/coderrdikshant/coderrdikshant/master/profile-summary-card-output/github_dark/0-profile-details.svg" height="200" />
+</div>
 
-![](https://raw.githubusercontent.com/coderrdikshant/coderrdikshant/master/profile-summary-card-output/github_dark/0-profile-details.svg)  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/coderrdikshant/coderrdikshant/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="200"/>
-  <img src="https://raw.githubusercontent.com/coderrdikshant/coderrdikshant/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="200"/>
+  <img src="https://raw.githubusercontent.com/coderrdikshant/coderrdikshant/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="200" />
+  <img src="https://raw.githubusercontent.com/coderrdikshant/coderrdikshant/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="200" />
 </div>
 
 <div align="center">
