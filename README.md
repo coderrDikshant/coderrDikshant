@@ -49,7 +49,7 @@
 
 ## 📈 Competitive Programming
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mvdikshant?theme=light&ext=contest)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/mvdikshant?theme=dark&ext=contest)  
 
 ---
 
