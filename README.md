@@ -53,18 +53,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderrdikshant&show_icons=true&locale=en&layout=compact&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=coderrdikshant&show_icons=true&locale=en&theme=default" height="150"/>
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderrdikshant&show_icons=true&locale=en&layout=compact&theme=dark" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderrdikshant&theme=default" height="150"/>
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=coderrdikshant&show_icons=true&locale=en&theme=dark" height="150"/>
 </p>
 
----
+<p align="right">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderrdikshant&theme=dark" height="150"/>
+</p>
+
 
 <!-- ## 📊 Coding Activity Graph
 
