@@ -1,5 +1,11 @@
 <!-- Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%27m+Dikshant+Jha)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=36&width=700&lines=Hi+%F0%9F%91%8B%2C+I%27m+Dikshant+Jha" />
+  </a>
+</p>
+
+
 <h3 align="center">🚀 Software Developer | Mobile Apps | SaaS | Cloud Solutions</h3>
 
 <p align="center">
