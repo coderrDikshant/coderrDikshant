@@ -56,7 +56,7 @@
 ## 📈 Competitive Programming
 
  <div align="center">
-  <img src="https://leetcard.jacoblin.cool/mvdikshant?theme=dark&ext=contest" height="200" />
+  <img src="https://leetcard.jacoblin.cool/mvdikshant?theme=dark&ext=contest" />
 </div>
 <!-- ![LeetCode Stats]()   -->
 
