@@ -55,15 +55,15 @@
 
 ## 📊 GitHub Stats  
 
-<p align="right">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderrdikshant&show_icons=true&locale=en&layout=compact&theme=dark" height="150"/>
 </p>
 
-<p align="right">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=coderrdikshant&show_icons=true&locale=en&theme=dark" height="150"/>
 </p>
 
-<p align="right">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderrdikshant&theme=dark" height="150"/>
 </p>
 
